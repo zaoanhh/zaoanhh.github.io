@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Fei Shang Homepage"
 author_profile: true
 classes: wide
 redirect_from: 
