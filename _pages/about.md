@@ -11,11 +11,14 @@ redirect_from:
 I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at University of Science and Technology of China. My research interest is wireless sensing.
 
 ## 🔥 News
-
+- 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by Ubicomp/IMWUT.
+- 🎉🎉🎉 Our paper " Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs" has been accepted by IWQoS 2024.
 ## 📝 Publications 
 
 ### Conference
-
+- Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs\
+  Dawei Yan, Panlong Yang, **Fei Shang**, Nikolaos M. Freris and Yubo Yan\
+  [PDF](/files/Anteumbler.pdf) | Slide ``IWQoS 2024``
 
 - [LiquImager: Fine-grained Liquid Identification and Container Imaging System with COTS WiFi Devices](https://dl.acm.org/doi/abs/10.1145/3643509)\
   **Fei Shang,** Panlong Yang, Dawei Yan, Sijia Zhang, Xiang-Yang Li\

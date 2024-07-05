@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fei Shang / Personal Homepage"
+title                    : "Fei Shang Homepage"
 title_separator          : "-"
 name                     : &name "Fei Shang"
 description              : &description "Phd. student of USTC"
