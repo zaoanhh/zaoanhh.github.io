@@ -69,4 +69,11 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
   **Fei Shang**, Panlong Yang, Jie Xiong, Yuanhao Feng, Xiang-Yang Li\
   [PDF](/files/Tamera.pdf) | Slide ``IEEE/ACM TOSN``
 
+- [A vibration-based multi-user concurrent communication system with commercial devices](https://www.sciencedirect.com/science/article/abs/pii/S1389128621002280)\
+  Tianzhang Xing, Chase Wu, Jie Wang, **Fei Shang**, Ruilin Li, Xiaojiang Chen\
+  PDF | Slide ``Computer Networks``
+
+- [LAR: a low-power, high-precision mobile phone-based AR system](https://link.springer.com/article/10.1007/s00779-020-01421-3)\
+  Xiaoming Dai, Fei Shang, Tianzhang Xing, Feng Chen, Baoying Liu\
+  PDF | Slide ``Personal and Ubiquitous Computing``
 
