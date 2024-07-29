@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at University of Science and Technology of China. My research interest is wireless sensing.
+I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at University of Science and Technology of China (USTC). My research interest is wireless sensing.
 
 ## 🔥 News
-- [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by MobiHoc 2024.
-- [2024.07] 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by Ubicomp/IMWUT 2024.
-- [2024.04] 🎉🎉🎉 Our paper " Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs" has been accepted by IWQoS 2024.
+- [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
+- [2024.07] 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by ``Ubicomp/IMWUT 2024``.
+- [2024.04] 🎉🎉🎉 Our paper " Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs" has been accepted by ``IWQoS 2024``.
 ## 📝 Publications 
 
 ### Conference
