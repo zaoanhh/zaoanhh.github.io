@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -24,11 +25,11 @@ author:
   avatar           : "feishang.png"
   name             : "尚飞"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "君子食无求饱，居无求安，敏于事而不讷于言，就有道而正焉。"  
+  bio              : "君子食无求饱，居无求安，敏于事而不讷于言，就有道而正焉。" 
   location         : "China"
   employer         : "USTC"
-  uri              : # URL      
-  email            : "shf_1998@outlook.com"       
+  uri              : # URL
+  email            : "shf_1998@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
