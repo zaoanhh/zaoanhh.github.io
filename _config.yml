@@ -27,8 +27,8 @@ author:
   bio              : "君子食无求饱，居无求安，敏于事而不讷于言，就有道而正焉。"
   location         : "China"
   employer         : "USTC"
-  Blog              : "https://zaoanhh.github.io/research_blog/"          
-  email            : "shf_1998@outlook.com" 
+  uri              : "https://zaoanhh.github.io/research_blog/"          
+  email            : "shf_1998@outlook.com"  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
