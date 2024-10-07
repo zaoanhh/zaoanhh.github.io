@@ -14,6 +14,8 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 - [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
 - [2024.07] 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by ``Ubicomp/IMWUT 2024``.
 - [2024.04] 🎉🎉🎉 Our paper " Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs" has been accepted by ``IWQoS 2024``.
+
+
 ## 📝 Publications 
 
 ### Conference
@@ -46,10 +48,6 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
   [PDF](/files/Liqray.pdf) | [Slide](/files/LiqRay_slide.pdf) ``MobiCom 2022``
 
 
-
-
-
-
 ### Journals
 
 - [Towards the limits: Sensing Capability Measurement for ISAC Through Channel Encoder](https://arxiv.org/abs/2405.09497)\
@@ -77,3 +75,13 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
   Xiaoming Dai, Fei Shang, Tianzhang Xing, Feng Chen, Baoying Liu\
   PDF  ``Personal and Ubiquitous Computing``
 
+### Short Paper or Workshop
+
+- RF-Monitor: Smart RFID Solution for Industrial Electrical Cabinet
+ Door Monitoring\
+ Haocheng Jiang, **Fei Shang**, Yubo Yan, Haohua Du, Xianrui Pan, Xiang-Yang Li\
+  [PDF](/files\rfcom24.pdf) ``Sensys 24 RFCom``
+
+- Field Sensing Model, A New Foundation for RF Sensing\
+  **Fei Shang**\
+  [PDF](/files\Sensys_Phd.pdf) ``Sensys 24 Ph.D. Forum``
