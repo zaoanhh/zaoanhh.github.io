@@ -11,14 +11,25 @@ redirect_from:
 I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at University of Science and Technology of China (USTC). My research interest is wireless sensing.
 
 ## 🔥 News
+
+- [2024.10] 🎉🎉🎉  Two papers are accepted by ``MSN 2024`` and one paper is accepted by ``IEEE TMC``.
 - [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
 - [2024.07] 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by ``Ubicomp/IMWUT 2024``.
-- [2024.04] 🎉🎉🎉 Our paper " Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs" has been accepted by ``IWQoS 2024``.
+
 
 
 ## 📝 Publications 
 
 ### Conference
+
+- BAIR: A Fine-Grained Real-Time Multi-Modal Ranging System on Smartphones\
+  Xiao Li, Feiyu Han, **Fei Shang**, Shicheng Zheng, Chunyu He, Haohua Du, Xiang-Yang Li\
+  PDF | Slide ``MSN 2024``
+
+- WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network\
+  Mingzhu Yang, Yubo Yan, Dawei Yan, Shang Gao, **Fei Shang**\
+  PDF | Slide ``MSN 2024``
+
 - freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors\
   Dawei Yan, Panlong Yang, **Fei Shang**, Feiyu Han, Yubo Yan, and Xiang-Yang Li\
   PDF | Slide ``MobiHoc 2024``
@@ -49,6 +60,10 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 
 ### Journals
+
+- Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs\
+  Dawei Yan, Panlong Yang, **Fei Shang**, Nikolaos M. Freris, Yubo Yan\
+  PDF  ``IEEE TMC``
 
 - [Towards the limits: Sensing Capability Measurement for ISAC Through Channel Encoder](https://arxiv.org/abs/2405.09497)\
   **Fei Shang**, Haohua Du, Panlong Yang, Xin He, Wen Ma, Xiang-Yang Li\
