@@ -12,9 +12,9 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ## 🔥 News
 
+- [2024.10] 🎉🎉🎉 Our paper "Survey on Low Power Sensing of AIoT" has been published by ``JCRD``.
 - [2024.10] 🎉🎉🎉  Two papers are accepted by ``MSN 2024`` and one paper is accepted by ``IEEE TMC``.
 - [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
-- [2024.07] 🎉🎉🎉 Our paper "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement" has been accepted by ``Ubicomp/IMWUT 2024``.
 
 
 
@@ -30,15 +30,15 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
   Mingzhu Yang, Yubo Yan, Dawei Yan, Shang Gao, **Fei Shang**\
   PDF | Slide ``MSN 2024``
 
-- freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors\
+- [freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors](https://dl.acm.org/doi/10.1145/3641512.3686362)\
   Dawei Yan, Panlong Yang, **Fei Shang**, Feiyu Han, Yubo Yan, and Xiang-Yang Li\
-  PDF | Slide ``MobiHoc 2024``
+  [PDF](/files/freegait.pdf) | Slide ``MobiHoc 2024``
   
 - [EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement](https://dl.acm.org/doi/abs/10.1145/3678594)\
   Feiyu Han, Panlong Yang, You Zuo, **Fei Shang**, Fenglei Xu, and Xiang-Yang Li\
   [PDF](/files/EarSpeech.pdf) | Slide ``IMWUT/Ubicomp 2024``
   
-- Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs\
+- [Anteumbler: Non-Invasive Antenna Orientation Error Measurement for WiFi APs](https://ieeexplore.ieee.org/document/10682937)\
   Dawei Yan, Panlong Yang, **Fei Shang**, Nikolaos M. Freris and Yubo Yan\
   [PDF](/files/Anteumbler.pdf) | Slide ``IWQoS 2024``
 
@@ -60,10 +60,13 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 
 ### Journals
+- [Survey on Low Power Sensing of AIoT](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440396)\
+  Li Xiangyang, **Shang Fei**, Yan Yubo, Wang Shanyue, Han Feiyu, Chi Guoxuan, Yang Zheng, Chen Xiaojiang.\
+  PDF  ``JCRD``
 
-- Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs\
+- [Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs](https://ieeexplore.ieee.org/document/10731634)\
   Dawei Yan, Panlong Yang, **Fei Shang**, Nikolaos M. Freris, Yubo Yan\
-  PDF  ``IEEE TMC``
+  [PDF](/files/Orientation.pdf)  ``IEEE TMC``
 
 - [Towards the limits: Sensing Capability Measurement for ISAC Through Channel Encoder](https://arxiv.org/abs/2405.09497)\
   **Fei Shang**, Haohua Du, Panlong Yang, Xin He, Wen Ma, Xiang-Yang Li\
@@ -92,11 +95,11 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ### Short Paper or Workshop
 
-- RF-Monitor: Smart RFID Solution for Industrial Electrical Cabinet
- Door Monitoring\
+- [RF-Monitor: Smart RFID Solution for Industrial Electrical Cabinet
+ Door Monitoring](https://dl.acm.org/doi/10.1145/3698386.3699987)\
  Haocheng Jiang, **Fei Shang**, Yubo Yan, Haohua Du, Xianrui Pan, Xiang-Yang Li\
-  [PDF](/files\rfcom24.pdf) ``Sensys 24 RFCom``
+  [PDF](/files/rfcom24.pdf) ``Sensys 24 RFCom``
 
 - Field Sensing Model, A New Foundation for RF Sensing\
   **Fei Shang**\
-  [PDF](/files\Sensys_Phd.pdf) ``Sensys 24 Ph.D. Forum``
+  [PDF](/files/Sensys_Phd.pdf) ``Sensys 24 Ph.D. Forum``
