@@ -12,6 +12,7 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ## 🔥 News
 
+- [2024.12] 🎉🎉🎉 Our paper "GRACED: A Plug-and-Play Solution for Certifiable Graph Classification" has been accepted by ``ICASSP 2025``.
 - [2024.10] 🎉🎉🎉 Our paper "Survey on Low Power Sensing of AIoT" has been published by ``JCRD``.
 - [2024.10] 🎉🎉🎉  Two papers are accepted by ``MSN 2024`` and one paper is accepted by ``IEEE TMC``.
 - [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
@@ -21,6 +22,10 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 ## 📝 Publications 
 
 ### Conference
+
+- GRACED: A Plug-and-Play Solution for Certifiable Graph Classification\
+  Xiaoyu Liang, Haohua Du, He Lu, **Fei Shang**\
+  PDF | Slide ``ICASSP 2025``
 
 - BAIR: A Fine-Grained Real-Time Multi-Modal Ranging System on Smartphones\
   Xiao Li, Feiyu Han, **Fei Shang**, Shicheng Zheng, Chunyu He, Haohua Du, Xiang-Yang Li\
