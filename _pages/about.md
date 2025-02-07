@@ -26,7 +26,7 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 - GRACED: A Plug-and-Play Solution for Certifiable Graph Classification\
   Xiaoyu Liang, Haohua Du, He Lu, **Fei Shang**\
-  PDF | Slide ``ICASSP 2025``
+  [PDF](/files/GRACED.pdf) | Slide ``ICASSP 2025``
 
 - BAIR: A Fine-Grained Real-Time Multi-Modal Ranging System on Smartphones\
   Xiao Li, Feiyu Han, **Fei Shang**, Shicheng Zheng, Chunyu He, Haohua Du, Xiang-Yang Li\
