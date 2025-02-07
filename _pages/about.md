@@ -12,10 +12,11 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ## 🔥 News
 
+- [2025.02] 🎉🎉🎉 Our paper "Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors" has been accepted by ``IEEE TMC``.
 - [2024.12] 🎉🎉🎉 Our paper "GRACED: A Plug-and-Play Solution for Certifiable Graph Classification" has been accepted by ``ICASSP 2025``.
 - [2024.10] 🎉🎉🎉 Our paper "Survey on Low Power Sensing of AIoT" has been published by ``JCRD``.
 - [2024.10] 🎉🎉🎉  Two papers are accepted by ``MSN 2024`` and one paper is accepted by ``IEEE TMC``.
-- [2024.07] 🎉🎉🎉 Our paper "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors" has been accepted by ``MobiHoc 2024``.
+
 
 
 
@@ -65,8 +66,13 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 
 ### Journals
+
+- Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors\
+  Dawei Yan, Panlong Yang, **Shang Fei**, Feiyu Han, Yubo Yan, Xiang-Yang Li\
+  PDF  ``IEEE TMC``
+
 - [Survey on Low Power Sensing of AIoT](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440396)\
-  Li Xiangyang, **Shang Fei**, Yan Yubo, Wang Shanyue, Han Feiyu, Chi Guoxuan, Yang Zheng, Chen Xiaojiang.\
+  Li Xiang-Yang, **Shang Fei**, Yan Yubo, Wang Shanyue, Han Feiyu, Chi Guoxuan, Yang Zheng, Chen Xiaojiang.\
   PDF  ``JCRD``
 
 - [Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs](https://ieeexplore.ieee.org/document/10731634)\
