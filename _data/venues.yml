@@ -1,11 +1,8 @@
-"MobiCom'22":
+"MobiCom":
   color: "#ff3636"
 
-"Ubicomp'23":
-  color: "b71c1c"
-
-"Ubicomp'24":
-  color: "b71c1c"
+"Ubicomp":
+  color: "#b71c1c"
 
 "IEEE TMC":
   color: "#0076df"
@@ -16,17 +13,17 @@
 "ACM TOSN":
   color: "#2698ba"
 
-"MSN'24":
+"MSN":
   color: "#00ab37"
 
-"ICASSP'25":
+"ICASSP":
   color: "#b7d12a"
 
 "arXiv":
   color: "#f92080"
 
-"MobiHoc'24":
+"MobiHoc":
   color: "#f92080"
 
-"IWQoS'24":
+"IWQoS":
   color: "#efcc00"
