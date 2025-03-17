@@ -1,9 +1,32 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"MobiCom'22":
+  color: "#ff3636"
+
+"Ubicomp'23":
+  color: "b71c1c"
+
+"Ubicomp'24":
+  color: "b71c1c"
+
+"IEEE TMC":
+  color: "#0076df"
+
+"IEEE IoTJ":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACM TOSN":
+  color: "#2698ba"
 
-"Vision":
-  color: "#009f36"
+"MSN'24":
+  color: "#00ab37"
+
+"ICASSP'25":
+  color: "#b7d12a"
+
+"arXiv":
+  color: "#f92080"
+
+"MobiHoc'24":
+  color: "#f92080"
+
+"IWQoS'24":
+  color: "#efcc00"
