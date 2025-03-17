@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -25,18 +25,18 @@ latest_posts:
 
 I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at University of Science and Technology of China (USTC). My research interest is wireless sensing.
 
-## Awards
+### Awards
 
 - Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (First session), 2024
 - National Scholarship, 2022, 2024
 - Intel Scholarship, 2023
 
-## Service
+### Service
 
 - Reviewer of IEEE IoTJ, IEEE TMC, IMWUT/Ubicomp, ACM TIoT
 - The host at the BIGCOM Rising Star Forum, 2024
 
-## News
+### News
 
 - [2025.02] 🎉🎉🎉 Our paper "Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors" has been accepted by ``IEEE TMC``.
 - [2024.12] 🎉🎉🎉 Our paper "GRACED: A Plug-and-Play Solution for Certifiable Graph Classification" has been accepted by ``ICASSP 2025``.
