@@ -2,28 +2,28 @@
   color: "#ff3636"
 
 "Ubicomp":
-  color: "#b71c1c"
+  color: "#ff3636"
 
 "IEEE TMC":
-  color: "#0076df"
+  color: "#ff3636"
 
 "IEEE IoTJ":
-  color: "#00369f"
+  color: "#f29105"
 
 "ACM TOSN":
-  color: "#2698ba"
+  color: "#b509ac"
 
 "MSN":
   color: "#00ab37"
 
 "ICASSP":
-  color: "#b7d12a"
+  color: "#b509ac"
 
 "arXiv":
   color: "#f92080"
 
 "MobiHoc":
-  color: "#f92080"
+  color: "#b509ac"
 
 "IWQoS":
-  color: "#efcc00"
+  color: "#b509ac"

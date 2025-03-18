@@ -171,6 +171,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _pages/pages_not_use/*.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -262,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Fei]
-  first_name: [Shang]
+  last_name: [Shang]
+  first_name: [Fei]
 
   style: apa
   locale: en
@@ -337,7 +338,8 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
-  exclude:
+  # exclude:
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
