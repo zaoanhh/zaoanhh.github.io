@@ -6,9 +6,12 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+{% raw %}
 | CCF A | CCF B | CCF C | JCR Q1 | Others |
 |-----------|-----------|-----------|-----------|-----------|
 | <span style="display: inline-block; width: 40px; height: 20px; background-color: #ff3636;"></span> | <span style="display: inline-block; width: 40px; height: 20px; background-color: #b509ac;"></span> | <span style="display: inline-block; width: 40px; height: 20px; background-color: #00ab37;"></span> |<span style="display: inline-block; width: 40px; height: 20px; background-color: #f29105;"></span> |<span style="display: inline-block; width: 40px; height: 20px; background-color: #00369f;"></span> |
+{% endraw %}
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
