@@ -38,7 +38,6 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ### News
 
+- [2025.04] 🎉🎉🎉 Our paper "Measuring Discrete Sensing Capability for ISAC via Task Mutual Information" has been accepted by ``SCIS``.
 - [2025.02] 🎉🎉🎉 Our paper "Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors" has been accepted by ``IEEE TMC``.
 - [2024.12] 🎉🎉🎉 Our paper "GRACED: A Plug-and-Play Solution for Certifiable Graph Classification" has been accepted by ``ICASSP 2025``.
-- [2024.10] 🎉🎉🎉 Our paper "Survey on Low Power Sensing of AIoT" has been published by ``JCRD``.
-- [2024.10] 🎉🎉🎉  Two papers are accepted by ``MSN 2024`` and one paper is accepted by ``IEEE TMC``.
