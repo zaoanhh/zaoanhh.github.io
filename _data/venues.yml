@@ -1,17 +1,18 @@
 "MobiCom":
-  color: "#b509ac"
+  color: "#f29105"
 
 "Ubicomp":
-  color: "#b509ac"
+  color: "#f29105"
 
 "IEEE TMC":
-  color: "#b509ac"
+  color: "#f29105"
 
 "SCIS":
-  color: "#b509ac"
+  color: "#f29105"
 
 "IEEE IoTJ":
-  color: "#f29105"
+  color: "#b509ac"
+  
 
 "ACM TOSN":
   color: "#ff3636"
