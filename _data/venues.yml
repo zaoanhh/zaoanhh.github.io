@@ -1,35 +1,36 @@
 "MobiCom":
-  color: "#ff3636"
+  color: "#b509ac"
 
 "Ubicomp":
-  color: "#ff3636"
+  color: "#b509ac"
 
 "IEEE TMC":
-  color: "#ff3636"
+  color: "#b509ac"
 
 "SCIS":
-  color: "#ff3636"
+  color: "#b509ac"
 
 "IEEE IoTJ":
   color: "#f29105"
 
 "ACM TOSN":
-  color: "#b509ac"
+  color: "#ff3636"
+
+"ICASSP":
+  color: "#ff3636"
+
+"SenSys":
+  color: "#ff3636"
+
+
+"MobiHoc":
+  color: "#ff3636"
+
+"IWQoS":
+  color: "#ff3636"
 
 "MSN":
   color: "#00ab37"
 
-"ICASSP":
-  color: "#b509ac"
-
-"SenSys":
-  color: "#b509ac"
-
 "arXiv":
   color: "#f92080"
-
-"MobiHoc":
-  color: "#b509ac"
-
-"IWQoS":
-  color: "#b509ac"
