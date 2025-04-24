@@ -31,6 +31,7 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 - Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (First session), 2024
 - National Scholarship, 2022, 2024
 - Intel Scholarship, 2023
+- Outstanding Graduate Student of Anhui Province, 2025
 
 ### Service
 
@@ -39,6 +40,6 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ### News
 
+- [2025.04] 🎉🎉🎉 Our paper "The field-based model: a new perspective on RF-based material sensing" has been accepted by ``SCIS``.
 - [2025.04] 🎉🎉🎉 Our paper "Measuring Discrete Sensing Capability for ISAC via Task Mutual Information" has been accepted by ``SCIS``.
 - [2025.02] 🎉🎉🎉 Our paper "Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors" has been accepted by ``IEEE TMC``.
-- [2024.12] 🎉🎉🎉 Our paper "GRACED: A Plug-and-Play Solution for Certifiable Graph Classification" has been accepted by ``ICASSP 2025``.
