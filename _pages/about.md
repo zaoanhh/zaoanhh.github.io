@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ)(ACM/IEEE Fellow) at University of Science and Technology of China (USTC). I have successfully defended my doctoral thesis and am going to join The University of Hong Kong (HKU) as a postdoctoral researcher, working closely with Professor [Chenshu Wu](https://cswu.me/).​ My research interest is wireless sensing.
+I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ)(ACM/IEEE Fellow) at University of Science and Technology of China (USTC). I have obtained a Ph.D. degree and am going to join The University of Hong Kong (HKU) as a postdoctoral researcher, working closely with Professor [Chenshu Wu](https://cswu.me/).​ My research interest is wireless sensing.
 
 
 
@@ -62,6 +62,7 @@ I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.
 
 ### News
 
-- [2025.04] 🎉🎉🎉 Our paper "The field-based model: a new perspective on RF-based material sensing" has been accepted by ``SCIS``.
+- [2025.06] 🎉🎉🎉 I have obtained a Ph.D. degree.
+- [2025.05] 🎉🎉🎉 Our paper "The field-based model: a new perspective on RF-based material sensing" has been accepted by ``SCIS``.
 - [2025.04] 🎉🎉🎉 Our paper "Measuring Discrete Sensing Capability for ISAC via Task Mutual Information" has been accepted by ``SCIS``.
-- [2025.02] 🎉🎉🎉 Our paper "Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors" has been accepted by ``IEEE TMC``.
+
