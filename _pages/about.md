@@ -9,6 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>AIoT Lab</p>
+    <p>The University of Hong Kong </p>
     <p>君子食无求饱，居无求安，敏于事而不讷于言，就有道而正焉</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,28 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am fortunate to be advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ)(ACM/IEEE Fellow) at University of Science and Technology of China (USTC). I have obtained a Ph.D. degree and am going to join The University of Hong Kong (HKU) as a postdoctoral researcher, working closely with Professor [Chenshu Wu](https://cswu.me/).​ My research interest is wireless sensing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I am fortunate to work with Prof. [Chenshu Wu](https://cswu.me/) at HKU. Before joining HKU, I was advised by Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) at USTC. My research interest is wireless sensing.
 
 
 ### Awards
