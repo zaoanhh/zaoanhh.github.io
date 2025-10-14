@@ -44,7 +44,7 @@ I am fortunate to work with Prof. [Chenshu Wu](https://cswu.me/) at HKU. Before 
 
 ### News
 
+- [2025.10] 🎉🎉🎉 Our paper "freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation" has been accepted by ``TOSN`` Workshop.
+- [2025.09] 🎉🎉🎉 Our paper "RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network" has been accepted by ``MoboCom'25`` Workshop.
 - [2025.06] 🎉🎉🎉 I have obtained a Ph.D. degree.
-- [2025.05] 🎉🎉🎉 Our paper "The field-based model: a new perspective on RF-based material sensing" has been accepted by ``SCIS``.
-- [2025.04] 🎉🎉🎉 Our paper "Measuring Discrete Sensing Capability for ISAC via Task Mutual Information" has been accepted by ``SCIS``.
 
