@@ -44,7 +44,7 @@ I am fortunate to work with Prof. [Chenshu Wu](https://cswu.me/) at HKU. Before 
 
 ### News
 
-- [2025.10] 🎉🎉🎉 Our paper "Multi-Modal Device-to-Device Ranging and Joint Localization" has been accepted by ``IOTJ`` Workshop.
-- [2025.10] 🎉🎉🎉 Our paper "freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation" has been accepted by ``TOSN`` Workshop.
+- [2025.10] 🎉🎉🎉 Our paper "Multi-Modal Device-to-Device Ranging and Joint Localization" has been accepted by ``IOTJ``.
+- [2025.10] 🎉🎉🎉 Our paper "freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation" has been accepted by ``TOSN``.
 - [2025.09] 🎉🎉🎉 Our paper "RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network" has been accepted by ``MoboCom'25`` Workshop.
 
